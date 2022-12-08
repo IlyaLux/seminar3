@@ -90,16 +90,16 @@ Git - это программа для контроля версий
 
 Чтобы переключиться на другую ветку необходимо набрать команду:
 
-    git checkout <branch name>
+    git checkout <branch_name>
 
 ### Удаление ветки
 
 Чтобы удалить ветку необходимо набрать команду:
 
-    git branch -d <branch name>
+    git branch -d <branch_name>
 
 Для безоговорочного удаления ветки необходимо набрать команду:
 
-    git branch -D <branch name>
+    git branch -D <branch_name>
     
-    
+
