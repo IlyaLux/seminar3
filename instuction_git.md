@@ -84,11 +84,11 @@ Git - это программа для контроля версий
 
 Чтобы создать новую ветку необходимо набрать команду:
 
-    git branch <branch name>
+    git branch <branch_name>
 
 ### Переключение между ветками
 
 Чтобы переключиться на другую ветку необходимо набрать команду:
 
-    git checkout <branch name>
+    git checkout <branch_name>
     
